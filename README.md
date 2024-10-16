@@ -46,5 +46,5 @@ As part of my graduate course *MGT 5804*, I developed a comprehensive AI-powered
 </p>
 
 <p align="center">
-  <img width="500" src="img/Pricing Model.png">
+  <img width="500" src="img/Pricing model.png">
 </p>

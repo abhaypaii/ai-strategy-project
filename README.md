@@ -2,7 +2,9 @@
 
 As part of my graduate course *MGT 5804*, I developed a comprehensive AI-powered technology strategy for **Cleverest.ai**, an innovative SaaS platform integrating with LMS systems to provide data-driven personalized learning experiences.
 
-<img src="img/Logo.png" width="300" style="vertical-align:middle;margin:0px 300px">
+<p align="center">
+  <img width="300" src="img/Logo.png">
+</p>
 
 ## Key highlights:
 

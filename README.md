@@ -1,6 +1,6 @@
 # AI-driven Technology Strategy for an Learning Management SaaS startup
 
-As part of my graduate course MGT 5804, I developed a comprehensive AI-powered technology strategy for Cleverest.ai, an innovative SaaS platform integrating with LMS systems to provide data-driven personalized learning experiences.
+As part of my graduate course *MGT 5804*, I developed a comprehensive AI-powered technology strategy for **Cleverest.ai**, an innovative SaaS platform integrating with LMS systems to provide data-driven personalized learning experiences.
 
 ## Key highlights:
 

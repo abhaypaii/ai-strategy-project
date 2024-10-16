@@ -24,7 +24,7 @@ As part of my graduate course *MGT 5804*, I developed a comprehensive AI-powered
 ### 3. Developed a customer segmentation strategy targeting early adopters in the education sector.
 
 <p align="center">
-  <img width="500" src="img/Early Adopters.png">
+  <img width="300" src="img/Early Adopter.png">
 </p>
 
 ### 4. Structured a robust data pipeline and AI strategy leveraging various algorithms:
